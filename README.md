@@ -4,7 +4,7 @@
 
 
 
-- 👨‍💻 I’m employed as: Software Developer Internship
+- 👨‍💻 I’m employed as: Fullstack Developer Intern
 - 🧑‍🎓 I’m currently studying: **Information Technologies for Sustainable Development** at [LBTU](https://www.lbtu.lv/en/information-technologies-for-sustainable-development)
 - 📖 My Diploma Thesis: 🚧
 - :octocat: My portfolio: 🚧
