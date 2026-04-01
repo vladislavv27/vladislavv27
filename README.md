@@ -4,11 +4,8 @@
 
 
 
-- 👨‍💻 I’m employed as: Fullstack Developer Intern
+- 👨‍💻 I’m employed as: Fullstack Developer
 - 🧑‍🎓 I’m currently studying: **Information Technologies for Sustainable Development** at [LBTU](https://www.lbtu.lv/en/information-technologies-for-sustainable-development)
-- 📖 My Diploma Thesis: 🚧
-- :octocat: My portfolio: 🚧
-- ☁️ I’m currently using Azure DevOps.
 ### 📫 Contact Me
 
 If you'd like to get in touch, you can reach me via [LinkedIn](https://www.linkedin.com/in/vladislavs-mihailovs-6071a2206/)
