@@ -4,7 +4,7 @@
 
 **Full-stack developer · Riga, Latvia**
 
-Angular · Nuxt · TypeScript backend  
+Angular · Nuxt · TypeScript · Node.js  
 Open to full-time or contract · remote / Riga
 
 <br/>
@@ -20,7 +20,6 @@ Open to full-time or contract · remote / Riga
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 </div>
