@@ -1,9 +1,26 @@
+<div align="center">
+
 # Vladislavs Mihailovs
 
-Full-stack developer in Riga — Angular, Nuxt, TypeScript.
+**Full-stack developer · Riga, Latvia**
 
-Open to full-time or contract · remote / Riga.
+Angular · Nuxt · TypeScript backend  
+Open to full-time or contract · remote / Riga
 
-**Stack:** Angular · Nuxt · TypeScript · Node.js · Fastify · PostgreSQL
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/vladislavs-m-6071a2206/) · [Email](mailto:vladislavv27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislavs-m-6071a2206/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vladislavv27@gmail.com)
+
+<br/>
+
+### Stack
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+</div>
